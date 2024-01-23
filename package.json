@@ -1,0 +1,11 @@
+{
+  "name": "music-shuffle-algorithms",
+  "version": "0.0.0",
+  "description": "Just Something I'm testing",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "author": "Backwards",
+  "license": "MIT"
+}
